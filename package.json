@@ -1,0 +1,7 @@
+{
+  "name" : "userGenerator",
+  "version" : "0.0.1",
+  "dependencies" : {
+    "casual" : "1.5.6"
+  }
+}
